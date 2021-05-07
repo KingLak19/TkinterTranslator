@@ -1,0 +1,3 @@
+- I use tkinter for GUI
+- I use pyperclip for copying output
+- I use the googletrans module to translate text
