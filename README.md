@@ -1,3 +1,3 @@
-- I use tkinter for GUI
-- I use pyperclip for copying output
-- I use the googletrans module to translate text
+- GUI - tkinter
+- pyperclip - copying output
+- googletrans to translate text (For more info : https://github.com/ssut/py-googletrans)
